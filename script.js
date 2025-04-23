@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // 注意書きを表示（最後に追加）
         const note = document.createElement('div');
         note.className = 'note';
-        note.textContent = '※地方によっては二十五回忌を務める場合があります。';
+        note.textContent = '※地方によっては二十五回忌を勤める場合があります。';
         resultContainer.appendChild(note);
     }
 
